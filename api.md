@@ -69,3 +69,6 @@ curl --location 'http://localhost:3000/order/' \
         "quantity": 1
     }
 ]'
+
+
+Dokcer hub link = https://hub.docker.com/repository/docker/sanskritirp/qp-assessment/general
