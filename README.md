@@ -1,3 +1,7 @@
+ER diagram
+
+![inventory](https://github.com/SanskrutiRP/qp-assessment/assets/67673060/6e43048f-e1ff-40db-8b22-531fb1932226)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
